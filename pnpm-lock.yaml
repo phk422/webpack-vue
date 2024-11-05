@@ -4,7 +4,6 @@ specifiers:
   copy-webpack-plugin: ^12.0.2
   css-loader: ^7.1.2
   html-webpack-plugin: ^5.6.3
-  install: ^0.13.0
   less: ^4.2.0
   less-loader: ^12.2.0
   mini-css-extract-plugin: ^2.9.2
@@ -22,7 +21,6 @@ devDependencies:
   copy-webpack-plugin: 12.0.2_webpack@5.96.1
   css-loader: 7.1.2_webpack@5.96.1
   html-webpack-plugin: 5.6.3_webpack@5.96.1
-  install: 0.13.0
   less: 4.2.0
   less-loader: 12.2.0_less@4.2.0+webpack@5.96.1
   mini-css-extract-plugin: 2.9.2_webpack@5.96.1
@@ -1554,11 +1552,6 @@ packages:
 
   /inherits/2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
-    dev: true
-
-  /install/0.13.0:
-    resolution: {integrity: sha512-zDml/jzr2PKU9I8J/xyZBQn8rPCAY//UOYNmR01XwNwyfhEWObo2SWfSl1+0tm1u6PhxLwDnfsT/6jB7OUxqFA==}
-    engines: {node: '>= 0.10'}
     dev: true
 
   /interpret/3.1.1:
